@@ -1,0 +1,26 @@
+{
+  "name": "JsDesignPattern",
+  "version": "1.0.0",
+  "description": "javascript 23 kinds of design pattern.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adntin/JsDesignPattern.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "design",
+    "pattern",
+    "design pattern"
+  ],
+  "author": "89256006@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adntin/JsDesignPattern/issues"
+  },
+  "homepage": "https://github.com/adntin/JsDesignPattern#readme"
+}
