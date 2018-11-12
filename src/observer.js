@@ -21,7 +21,6 @@ class EventEmitter {
   }
 }
 
-// Use
 const e1 = new EventEmitter();
 e1.on('a', (...args) => {
   console.log(args)
