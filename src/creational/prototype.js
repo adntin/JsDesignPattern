@@ -1,3 +1,7 @@
+/**
+ * 原型模式
+ */
+
 class Person {
   constructor(name, age) {
     this.name = name;
@@ -8,3 +12,5 @@ class Person {
     return new Person(this.name, this.age);
   }
 }
+
+export default Person;
