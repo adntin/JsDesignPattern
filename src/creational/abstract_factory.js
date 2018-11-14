@@ -3,10 +3,11 @@
  * 通过类的抽象使得业务适用于一个产品类簇的创建，而不负责某一类产品的实例。
  */
 
+// 交通工具
 const VehicleFactory = function(SubClass, SuperClass) {
   if (typeof VehicleFactory[SuperClass] === "function") {
     function F() {
-      this.type = "车辆";
+      this.type = "交通工具";
     }
     F.prototype = new VehicleFactory[SuperClass]();
     SubClass.constructor = SubClass;
