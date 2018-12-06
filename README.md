@@ -42,10 +42,10 @@ javascript 23 kinds of design pattern.
 - mediator 中介者模式
 - interpreter 解释器模式
 
-- If any design pattern explanation is incorrect or not understood, please contact me at 89256006@qq.com
-
-参考:
+## 参考
 
 1. https://github.com/fbeline/Design-Patterns-JS
 2. http://www.alloyteam.com/2012/10/common-javascript-design-patterns/
 3. https://segmentfault.com/a/1190000012422055
+
+If any design pattern explanation is incorrect or not understood, please contact me at 89256006@qq.com
