@@ -1,3 +1,6 @@
+/**
+ * 观察者模式
+ */
 class EventEmitter {
   constructor() {
     this.listeners = {};
