@@ -1,6 +1,7 @@
 /**
  * 抽象工厂模式
  * 通过类的抽象使得业务适用于一个产品类簇的创建，而不负责某一类产品的实例。
+ * React: instantiateComponent: CompositeComponent & DOMComponent
  */
 
 // 交通工具
