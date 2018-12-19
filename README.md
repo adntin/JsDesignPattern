@@ -47,5 +47,6 @@ javascript 23 kinds of design pattern.
 1. https://github.com/fbeline/Design-Patterns-JS
 2. http://www.alloyteam.com/2012/10/common-javascript-design-patterns/
 3. https://segmentfault.com/a/1190000012422055
+4. http://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
 If any design pattern explanation is incorrect or not understood, please contact me at 89256006@qq.com
