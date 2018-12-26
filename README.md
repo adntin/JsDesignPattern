@@ -10,6 +10,12 @@ javascript 23 kinds of design pattern.
 4. 接口隔离(I): 认为“多个特定客户端接口要好于一个宽泛用途的接口”的概念。
 5. 依赖反转(D): 认为一个方法应该遵从“依赖于抽象而不是一个实例”的概念。依赖注入是该原则的一种实现方式。
 
+- S：The Single-Responsibility Principle (SRP)
+- O：The Open/Closed Principle (OCP)
+- L：The Liskov Substitution Principle (LSP)
+- I：The Interface Segregation Principle (ISP)
+- D：The Dependency-Inversion Principle (DIP)
+
 ## 创建型(creational)
 
 - factory 工厂模式
